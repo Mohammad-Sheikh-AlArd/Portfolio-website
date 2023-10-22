@@ -1,0 +1,60 @@
+.d-body{
+    background-color: var(--color-dark);
+}
+
+.d-main h2{
+    color: var(--color-dark);
+}
+
+.d-main h3{
+    color: var(--color-dark);
+}
+
+.d-main-btn{
+    color: var(--color-dark);  
+}
+
+.header.d-active{
+    background-color: var(--color-dark);
+    box-shadow: 0 0 1em 0 rgba(1,1,1,15%);
+}
+
+.d-sidenavLinks{
+    background-color: var(--color-dark);
+}
+
+.d-card{
+    background-color: var(--color-dark-secondary);
+    color: #ffffff;
+}
+
+.d-project-card{
+    background-color: var(--color-dark-secondary);   
+    border-color: var(--color-dark-secondary); 
+    color: #ffffff;
+}
+
+.d-footer-title{
+    color: var(--color-dark);
+}
+
+.footer .d-social-icons a{
+    color: var(--color-dark);
+}
+
+.d-navigation a{
+    color: var(--color-dark);
+}
+
+.d-personal-img{
+    background-color: var(--color-dark);
+    border-color: var(--color-dark);
+}
+
+.d-skills{
+    background-color: rgb(20 ,20 ,20);
+}
+
+.d-title{
+    background-color: var(--color-dark-secondary);
+}

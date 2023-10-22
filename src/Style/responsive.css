@@ -1,0 +1,218 @@
+@media (max-width:6000px){
+    body{
+        font-size: 50px;
+    }
+}
+
+@media (max-width:5000px){
+    body{
+        font-size: 46px;
+    }
+}
+
+@media (max-width:4000px){
+    body{
+        font-size: 43px;
+    }
+}
+
+@media (max-width:3000px){
+    body{
+        font-size: 20px;
+    }
+}
+
+@media (max-width:2000px){
+    body{
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width:1023px){
+    body{
+        font-size: 13px;
+    }
+    header{
+        padding: 12px 4em;
+    }
+    .navigation a{
+        margin-left: 10px;
+    }
+    .title{
+        font-size: 1.8em;
+    }
+    section{
+        padding: 80px 20px;
+    }
+    .main-content h2{
+        font-size: 1em;
+    }
+    .main-content h3{
+        font-size: 1.6em;
+    }
+    .content{
+        flex-direction: column;
+        align-items: center;
+    }
+    .project-card{
+        max-width: 30em;
+    }
+    .card{
+        max-width: 40em;
+    }
+    .footer .social-icons a{
+        margin-right: 0.7em;
+    }    
+    .person2{
+        visibility: hidden;
+    }
+}
+
+@media (max-width:708px){
+    .person{
+        width: 50em;
+    }
+}
+
+@media (max-width:708px){
+    .logo{
+        width: 18em;
+    }
+    .navigation a{
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width:650px){
+    body{
+        font-size: 12px;
+    }
+    .fa-bars{
+        display: block !important;
+    }
+    .navigation{
+        display: none;
+    }
+    .fa-moon{
+        padding: 0 0;
+    }
+    .personal-img{
+        display: none;
+    }
+}
+
+@media (max-width:641px){
+    body{
+        font-size: 12px;
+    }
+    .main-content{
+        font-size: 0.8em;
+    }
+    .main-content{
+        font-size: 1.4em;
+    }
+    .project-card{
+        max-width: 26em;
+    }
+    .card{
+        font-size: 10px;
+        max-width: 30em;
+    }
+    .icon{
+        font-size: 70px;
+    }
+    .info{
+        font-size: 8px;
+    }
+}
+
+@media (max-width:495px){
+    .logo{
+        width: 17em;
+    }
+}
+
+@media (max-width:445px){
+    .logo{
+        width: 15em;
+    }
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:420px){
+    body{
+        font-size: 10px;
+    }
+    .logo{
+        width: 18em;
+    }
+}
+
+@media (max-width:395px){
+    body{
+        font-size: 11px;
+    }
+    .logo{
+        width: 17em;
+    }
+}
+
+@media (max-width:378px){
+    body{
+        font-size: 9px;
+    }
+    .project-card{
+        max-width: 28em;
+    }
+    .card{
+        max-width: 26em;
+    }
+    .logo{
+        width: 21em;
+    }
+}
+
+@media (max-width:300px){
+    body{
+        font-size: 7.5px;
+    }
+    .project-card{
+        max-width: 28em;
+    }
+    .card{
+        max-width: 24em;
+    }
+    .logo{
+        width: 23em;
+    }
+    .sidenav a{
+        padding: 8px 8px 8px 16px;
+    }
+    .icon{
+        font-size: 50px;
+    }
+    .info{
+        font-size: 6px;
+    }
+}
+
+@media (max-width:258px){
+    body{
+        font-size: 7px;
+    }
+    .project-card{
+        max-width: 27em;
+    }
+    .card{
+        max-width: 20em;
+    }
+    .logo{
+        width: 23em;
+    }
+}

@@ -1,0 +1,75 @@
+.cloud{
+    position: absolute;
+    display: flex;
+    width: 40em;
+    height: 25em;
+    justify-content: center;
+    z-index: 0;
+    align-content: center;
+    transition: 0.5s ease;
+    display: none;
+}
+
+.c1{
+    position: relative;
+    top: 20px;
+    left: 70px;
+    width:10em;
+    height:10em;
+    background-color: #ffffffce;
+    border-radius: 50%;
+}
+
+.c1::before{
+    content: "";
+    position:absolute;
+    bottom: 0;
+    left: -3em;
+    width:8em;
+    height:8em;
+    background-color:#ffffffb2;
+    border-radius: 50%;
+}
+
+.c1::after{
+    content: '';
+    position: absolute;
+    top: -0.5em;
+    left: 4em;
+    width:11em;
+    height:11em;
+    background-color:#ffffff;
+    border-radius: 50%;
+}
+
+.c2{
+    position: relative;
+    top: 40px;
+    left: 70px;
+    width:9em;
+    height:9em;
+    background-color:#ffffffce;
+    border-radius: 50%;
+}
+
+.c2::before{
+    content: "";
+    position:absolute;
+    bottom: 0;
+    left: -4em;
+    width:8em;
+    height:8em;
+    background-color:#ffffffa9;
+    border-radius: 50%;
+}
+
+.c2::after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: -2em;
+    width:6em;
+    height:6em;
+    background-color:#ffffffd2;
+    border-radius: 50%;
+}
