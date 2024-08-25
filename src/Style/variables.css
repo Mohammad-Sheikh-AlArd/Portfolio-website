@@ -1,8 +1,9 @@
-:root{
-    --color-primary: #F5852E;
-    --color-secondary: #ff6600;
-    --color-light: #ffffff;
-    --color-dark: rgb(40 ,40 ,40);
-    --color-dark-secondary: rgb(50 ,50 ,50);
-    --color-yello: #FDB724;
+:root {
+  --color-primary: #587792;
+  --color-secondary: #2c3d63;
+  --color-primary-ligt: #e2eaf3;
+  --color-light: #ffffff;
+  --color-dark: #282828;
+  --color-dark-secondary: #323232;
+  --color-yello: #3c76b9;
 }

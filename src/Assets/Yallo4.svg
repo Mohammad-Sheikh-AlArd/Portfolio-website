@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.2" baseProfile="tiny"
+<svg version="1.1"
 	 id="svg55" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 3840 2400"
-	 overflow="visible" xml:space="preserve">
+	 style="enable-background:new 0 0 3840 2400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#7390AD;}
+</style>
 <sodipodi:namedview  bordercolor="#eeeeee" borderopacity="1" id="namedview57" inkscape:current-layer="g61" inkscape:cx="1775.8065" inkscape:cy="1166.129" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="0" inkscape:window-height="705" inkscape:window-maximized="1" inkscape:window-width="1292" inkscape:window-x="74" inkscape:window-y="26" inkscape:zoom="0.20666667" pagecolor="#505050" showgrid="false">
 	</sodipodi:namedview>
 <g id="g61" transform="matrix(1.3333333,0,0,-1.3333333,0,2400)" inkscape:groupmode="layer" inkscape:label="Yallo2">
-	<path id="path63" fill="#FDB724" d="M0,0h2880v1800H0V0z"/>
+	<path id="path63" class="st0" d="M0,0h2880v1800H0V0z"/>
 	<g id="g65">
 		
-			<image width="3840" height="2400" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADwAAAAlgCAYAAAA1H8JdAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+			<image style="overflow:visible;enable-background:new    ;" width="3840" height="2400" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADwAAAAlgCAYAAAA1H8JdAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAB/GpJREFUeNrs3Vtu3EjWqFGT4EQ8
 /0FpKNnIBzXUasHiJcjYl7WA81Z/FXMzIj7SfTK9/IEBXq/X39/+mWVZPkzK/eq4vvZc/xFnP+vI
 67CfsefRFE3RFJxP6Ime6AnOKGvQ/bK+NAU0xf2Kdb90RVdwTlmD7pf1pSmgKe6VnuiJvYw9j6Zo
@@ -2295,7 +2298,7 @@ sl/QE9ejKZriGnG/fY+y5v7WFE1BU1y/pujJfKPKQF1T/aVWLRKWC57JvtfsmvTENeuJnjhHmuLa
 nAVNwTlyhmqfa03RFDTFNWuKprhePUFXdMX+0RXPHc6RpnQ923qiKeiJa9YUTXHNmoJzpCeuz1nw
 7OEcaYrvUZyDL1ulpf11jbN/7XO1f0k2e2YdfjpEyq8a93JF0i6s/qxqip7oCXqiJ5qiKZpilmiK
 OdY+15qiKWiKZ1VTNEVP9ARd0RUz0xVzRFM0pevZ1hNNQU88q5qiKZqiKWiKnpiZppglmqIpvkex
-Az/9D9J8yuAhQ/IhAAAAAElFTkSuQmCC" transform="matrix(0.75 0 0 -0.75 0 1800.0005)">
+Az/9D9J8yuAhQ/IhAAAAAElFTkSuQmCC" transform="matrix(0.75 0 0 -0.75 0 1800.0012)">
 		</image>
 	</g>
 </g>
